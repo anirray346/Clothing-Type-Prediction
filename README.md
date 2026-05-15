@@ -37,7 +37,7 @@ The application is deployed using **Streamlit**, allowing users to upload clothi
 | ------------------ | ------------------------- |
 | Python             | Core Programming Language |
 | TensorFlow / Keras | Deep Learning Model       |
-| OpenCV             | Image Processing          |
+| ImageDataGenerator | Image Rescaling           |
 | NumPy              | Numerical Operations      |
 | PIL (Pillow)       | Image Handling            |
 | Streamlit          | Web Application           |
